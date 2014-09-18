@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=powermodule.SchDoc|Designator=A1|SchDesignator=A1|FileName=PWMswitch.SchDoc|SymbolType=Normal|RawFileName=PWMswitch.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=powermodule.SchDoc|Designator=A2|SchDesignator=A2|FileName=PWMswitch.SchDoc|SymbolType=Normal|RawFileName=PWMswitch.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=powermodule.SchDoc|Designator=B1|SchDesignator=B1|FileName=PWMswitch.SchDoc|SymbolType=Normal|RawFileName=PWMswitch.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=powermodule.SchDoc|Designator=B2|SchDesignator=B2|FileName=PWMswitch.SchDoc|SymbolType=Normal|RawFileName=PWMswitch.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=powermodule.SchDoc

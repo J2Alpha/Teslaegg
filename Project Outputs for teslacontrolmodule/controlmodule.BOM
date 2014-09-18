@@ -1,0 +1,13 @@
+Bill of Material for controlmodule.PcbDoc
+On 1/07/2014 at 0:18:45
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100pF               1608[0603]       3    C1, C2, C3                   Capacitor            
+ 10k                 1005[0402]       1    R1                           Resistor             
+ 220                 1005[0402]       1    R2                           Resistor             
+ ATtiny26L-8SC       20S_N            1    U1                           8-Bit AVR Microcontroller with 2K Bytes of Flash Memory 
+ Header 2H           HDR1X2H          2    Power, Reset                 Header, 2-Pin, Right Angle 
+ Header 3X2          HDR2X3           1    Prog                         Header, 3-Pin, Dual row 
+ Header 5X2A         HDR2X5_CEN       2    Port  A, Port B              Header, 5-Pin, Dual row 
+ LED                 1608[0603] - LED    1    D1                           LED                  

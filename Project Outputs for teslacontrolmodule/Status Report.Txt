@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [teslacontrolmodule.PrjPcb]
+   Generated File[controlmodule.TXT]
+   Generated File[controlmodule.DRL]
+   Generated File[controlmodule.LDP]
+   Generated File[controlmodule.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:24:24 On 1/07/2014

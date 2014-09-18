@@ -1,0 +1,24 @@
+Bill of Material for teslapowermodule.PrjPcb
+On 19/06/2014 at 23:43:49
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 10                  1005[0402]       4    R11_A1, R11_A2, R11_B1       Resistor             
+                                           R11_B2
+ 100K                1005[0402]       4    R12_A1, R12_A2, R12_B1       Resistor             
+                                           R12_B2
+ 10K                 1005[0402]       1    R9                           Resistor             
+ 10K                 1608[0603]       1    R10                          Resistor             
+ 13V                 SOT95P240-3N     4    D2_A1, D2_A2, D2_B1, D2_B2   Zener                
+ 15                  1005[0402]       8    R1, R2, R3, R4, R5, R6, R7   Resistor             
+                                           R8
+ 2pin Hi C           pin 2, 6.35mm ,L    3    PA1, PB1, Power1             2 terminal 5mm pitch screw terminal 
+ 330uF               1608[0603]       4    C1_A1, C1_A2, C1_B1, C1_B2   Capacitor polorized  
+ 470                 1005[0402]       4    R13_A1, R13_A2, R13_B1       Resistor             
+                                           R13_B2
+ ADuM7234            SOIC127P600-16N    4    U1_A1, U1_A2, U1_B1, U1_B2   ADuM7234 dual isolated gate driver 
+ DIODE               SMB              4    D1_A1, D1_A2, D1_B1, D1_B2   regular diode        
+ Header 5X2          HDR2X5           1    Low in1                      Header, 5-Pin, Dual row 
+ PN2222A             SOT23-3N         1    Q1                           NPN General Purpose Amplifier 
+ STM nmos transistor T0220 heatsinked    8    ThA1, ThA2, ThB1, ThB2, TlA1 MOSFET N-CH 600V 0.078Ohm typ. 34A MDmesh II 
+                                           TlA2, TlB1, TlB2
